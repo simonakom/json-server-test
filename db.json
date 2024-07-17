@@ -1,12 +1,40 @@
 {
-    "products": [
-      { "id": "1", "title": "shoe", "count": 150,  "price": 55.99 },
-      { "id": "2", "title": "dress", "count": 230,  "price": 29.99 },
-      { "id": "3", "title": "pants", "count": 12,  "price": 22.99 },
-      { "id": "4", "title": "pants", "count": 198,  "price": 2.99 }
-    ],
-    "comments" : [
-        { "id": "1", "text": "hello world" },
-        { "id": "2", "text": "bye world" }
-    ]
-  }
+  "products": [
+    {
+      "id": "1",
+      "title": "shoe",
+      "count": 150,
+      "price": 55.99
+    },
+    {
+      "id": "2",
+      "title": "dress",
+      "count": 230,
+      "price": 29.99
+    },
+    {
+      "id": "3",
+      "title": "pants",
+      "count": 12,
+      "price": 22.99
+    },
+    {
+      "id": "4",
+      "title": "pants",
+      "count": 198,
+      "price": 2.99
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "hello world",
+      "productId": "1"
+    },
+    {
+      "id": "2",
+      "text": "bye world",
+      "productId": "2"
+    }
+  ]
+}
