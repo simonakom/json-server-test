@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Iphone",
+      "count": 150,
+      "price": 800.99
+    },
+    {
+      "id": "2",
+      "title": "Macbook",
+      "count": 230,
+      "price": 1200.99
+    },
+    {
+      "id": "3",
+      "title": "Airpods",
+      "count": 12,
+      "price": 200.99
+    },
+    {
+      "id": "4",
+      "title": "Ipad",
+      "count": 198,
+      "price": 400.99
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "IPhone 15 Pro, 128 GB",
+      "productId": "1"
+    },
+    {
+      "id": "2",
+      "text": "MacBook Pro Touch Bar 13, 16 GB",
+      "productId": "2"
+    }
+  ]
+}
