@@ -7,11 +7,11 @@
 
 ## Installation
 
-To get started with JSON Server, follow these steps:
+To get started with JSON server, follow these steps:
 
 1. Clone this repository to your local machine
 
-2. Install JSON Server via npm:
+2. Install JSON server via npm:
 
 ```bash
 npm install json-server
