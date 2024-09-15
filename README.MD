@@ -29,6 +29,6 @@ All products/comments:
 - http://localhost:3000/products
 - http://localhost:3000/comments
 
-Specific products/comments:
+Specific product/comment:
 - http://localhost:3000/products/1
 - http://localhost:3000/comments/1
