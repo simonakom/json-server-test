@@ -7,8 +7,8 @@
 
 ## Prerequisites
 
-- Node.js 
-- npm (Node Package Manager): Comes with Node.js installation;
+- Node.js.
+- npm (Node Package Manager): Comes with Node.js installation.
 
 ## Installation
 
