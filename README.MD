@@ -5,6 +5,11 @@
 - Fake REST API: https://github.com/typicode/json-server/tree/v0
 - Fake authentication & authorization flow: https://www.npmjs.com/package/json-server-auth 
 
+## Prerequisites
+
+- Node.js 
+- npm (Node Package Manager): Comes with Node.js installation;
+
 ## Installation
 
 To get started with JSON server, follow these steps:
